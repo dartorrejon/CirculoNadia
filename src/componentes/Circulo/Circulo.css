@@ -19,7 +19,10 @@
 .linea{
     background-color: var(--main-color);
     width: var(--main-size);
+    border: 1px solid var(--main-color);
     height: 1px;
+    z-index: 100;
+    color: var(--main-color)
 }
 
 .linea1{
@@ -62,7 +65,7 @@
     content: "Cumplir con las tareas";
     color:var(--color-fuente);
     font-size: large;
-    font-weight: normal;
+    font-weight: bold;
     position: absolute;
     left: -80px;
     top: -120px;
@@ -73,7 +76,7 @@
     content: "Participar en clases";
     color:var(--color-fuente);
     font-size: large;
-    font-weight: normal;
+    font-weight: bold;
     position: absolute;
     right: -70px;
     bottom: -115px;
@@ -84,7 +87,7 @@
     content: "Buen Comportamiento";
     color:var(--color-fuente);
     font-size: large;
-    font-weight: normal;
+    font-weight: bold;
     position: absolute;
     left: -85px;
     top: -120px;
@@ -106,7 +109,7 @@
     content: "Prestar atencion en clases";
     color:var(--color-fuente);
     font-size: large;
-    font-weight: normal;
+    font-weight: bold;
     position: absolute;
     left: -100px;
     top: 140px;
@@ -116,7 +119,7 @@
     content: "Carpeta Completa";
     color:var(--color-fuente);
     font-size: large;
-    font-weight: normal;
+    font-weight: bold;
     position: absolute;
     right: -70px;
     bottom: 140px;
