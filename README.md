@@ -1,8 +1,13 @@
-# React + Vite
+# Circulo de las responsbilidades de el alumno
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este proyecto fue creado para mi prima Nadia, deberia ser un cirtulo con 10 divisiones para poder puntuar el desempeño de cada alumno en los direrentes topicos.
 
-Currently, two official plugins are available:
+Se encuentra deloyado en GH-Pages
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Para realizar el desarrollo utilize React.
+
+--- 
+
+
+
+
