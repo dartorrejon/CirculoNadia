@@ -17,8 +17,10 @@ const Circulo = () => {
                 <div className="division division3"></div>
                 <div className="division division2"></div>
             </div>
+
+        
         </>
-    ) 
+    )
 }
 
 export default Circulo
